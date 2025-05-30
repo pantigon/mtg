@@ -118,7 +118,7 @@ doh-ip = "9.9.9.9"
 # Please see https://docs.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker
 # on details about circuit breakers.
 proxies = [
-    # "socks5://user:password@host:port?open_threshold=5&half_open_timeout=1m&reset_failures_timeout=10s"
+    "socks5://goitoi:M71ErLpwXtoBwgo@172.18.0.12:1080?open_threshold=5&half_open_timeout=1m&reset_failures_timeout=10s"
 ]
 
 # network timeouts define different settings for timeouts. tcp timeout
